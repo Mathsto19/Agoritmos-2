@@ -31,7 +31,7 @@ Este repositório contém códigos implementados durante a disciplina Algoritmos
      ```
 
 2. **Escolha um Exercício:**
-   - Navegue até o diretório do exercício desejado. Por exemplo:
+   - Navegue até o diretório do exercício desejado. Por exemplo, para acessar o código do exercício "Algoritmos Gulosos - Ocupação de Espaço em Carreta de Reboque", você pode usar o seguinte comando:
 
      ```bash
      cd Algoritmos%20gulosos%20-%20Ocupação%20de%20Espaço%20em%20Carreta%20de%20Reboque
@@ -51,4 +51,4 @@ Contribuições são bem-vindas! Se você identificar melhorias nos códigos exi
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT.
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
