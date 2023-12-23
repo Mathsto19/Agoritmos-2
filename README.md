@@ -34,7 +34,7 @@ Este repositório contém códigos implementados durante a disciplina Algoritmos
    - Navegue até o diretório do exercício desejado. Por exemplo, para acessar o código do exercício "Algoritmos Gulosos - Ocupação de Espaço em Carreta de Reboque", use o seguinte comando:
 
      ```bash
-     cd Algoritmos%20gulosos%20-%20Ocupação%20de%20Espaço%20em%20Carreta%20de%20Reboque
+     cd Algoritmos-Gulosos-Ocupação-de-Espaço-em-Carreta-de-Reboque
      ```
 
 3. **Leia o Código:**
